@@ -97,10 +97,3 @@ python hangman.py
 
 **Created by Saurabh Kulshrestha**\
 Open for suggestions and contributions!
-
----
-
-## 🔖 License
-
-This project is licensed under the [MIT License](LICENSE).
-
